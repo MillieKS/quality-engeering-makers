@@ -1,2 +1,2 @@
-# quality-engeering-makers
+# quality-engineering-makers
 This is an 8-week specialisation course in Quality engineering with Java and IntelliJ
